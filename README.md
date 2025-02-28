@@ -47,6 +47,11 @@ A simple and responsive weather application that allows users to check the curre
    - Alternatively, use a live server extension (like Live Server in VSCode) for better performance.
 
 ---
+## 🚀 Demo
+
+Check out the live demo: [Live Demo](https://weather-app-steel-three-38.vercel.app)
+
+---
 
 ## 📜 How It Works
 1. User inputs the city name and selects the preferred language.
