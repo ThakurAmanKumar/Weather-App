@@ -64,8 +64,10 @@ Check out the live demo: [Live Demo](https://weather-app-steel-three-38.vercel.a
 ## Contributing
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
-## License
-This project is licensed under the MIT License.
+## 📜 License
+This project is licensed under the **MIT License**.  
+See the full license [here](https://github.com/ThakurAmanKumar/License/blob/main/LICENSE).
+
 
 ## Contact
 For any queries or feedback, reach out through my GitHub profile: [ThakurAmanKumar](https://github.com/ThakurAmanKumar)
